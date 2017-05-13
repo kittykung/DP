@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About.html",
+    "currentPage": "special.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,8 +29,8 @@
     "DigitsPlanet.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "DP",
+        "meta_descr": "DP",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
