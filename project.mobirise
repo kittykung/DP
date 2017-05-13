@@ -1254,7 +1254,7 @@
           "_name": "header3",
           "_anchor": "header3-12",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
