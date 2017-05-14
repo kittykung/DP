@@ -313,7 +313,8 @@
           "_styles": {
             "H5": {
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#8c8c8c"
             },
             "H4": {
               "color": "#28324e"
@@ -489,7 +490,8 @@
             },
             "H5": {
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#8c8c8c"
             }
           },
           "_anchor": "features3-j",
@@ -659,7 +661,8 @@
             },
             "H5": {
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#8c8c8c"
             }
           },
           "_anchor": "features3-k",
