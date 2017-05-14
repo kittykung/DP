@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About.html",
+    "currentPage": "DigitsPlanet.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -153,7 +153,7 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#28324e"
             },
             ".mbr-section-text": {
               "color": "#565656"
@@ -314,6 +314,9 @@
             "H5": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            "H4": {
+              "color": "#28324e"
             }
           },
           "_anchor": "features3-i",
