@@ -1246,6 +1246,9 @@
             },
             "H3": {
               "color": "#28324e"
+            },
+            "FONT": {
+              "color": "#8c8c8c"
             }
           },
           "_tags": [
@@ -1284,6 +1287,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -1304,6 +1310,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -1324,6 +1333,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#28324e"
             }
           },
           "_tags": [

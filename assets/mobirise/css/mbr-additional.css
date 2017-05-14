@@ -703,6 +703,9 @@ h6,
 #header3-12 H3 {
   color: #28324e;
 }
+#header3-12 FONT {
+  color: #8c8c8c;
+}
 #content1-11 DIV {
   font-size: 20px;
 }
@@ -710,13 +713,22 @@ h6,
 #header3-13 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-13 H3 {
+  color: #28324e;
+}
 #header3-14 .mbr-section-title,
 #header3-14 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-14 H3 {
+  color: #28324e;
+}
 #header3-16 .mbr-section-title,
 #header3-16 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-16 H3 {
+  color: #28324e;
 }
 #social-buttons3-17 .mbr-section-title,
 #social-buttons3-17 .btn-social {
