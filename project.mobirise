@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1334,6 +1334,32 @@
           },
           "title": "BGM Download",
           "meta": "遊戲音樂下載 (到時會插一個awesome table)<br><br>&nbsp; &nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"http://\">&nbsp; &nbsp;<!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-KjNjr97ssG4eldQ2nQe\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp; &nbsp; &nbsp; .</p>"
         },
         {
           "_styles": {
