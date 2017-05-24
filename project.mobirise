@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DigitsPlanet.html",
+    "currentPage": "About.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1333,7 +1333,7 @@
             "showMeta": true
           },
           "title": "BGM Download",
-          "meta": "遊戲音樂下載 (到時會插一個awesome table)<br>&nbsp; &nbsp;"
+          "meta": "遊戲音樂下載 (到時會插一個awesome table)<br><br>&nbsp; &nbsp;"
         },
         {
           "_styles": {
