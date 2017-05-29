@@ -1359,7 +1359,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=0By6w9rW8U79RTF9raU1NSkJtSzg\" data-toolbar=\"-mbrBtnMove\">雲端下載</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=0By6w9rW8U79RTF9raU1NSkJtSzg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">雲端下載</a>"
         },
         {
           "_styles": {
