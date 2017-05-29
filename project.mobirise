@@ -1408,8 +1408,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>地址Address</strong><br>國立中興大學<br>402台灣台中市南區興大路145號<br><br>National Chung Hsing University<br>145 Xingda Rd., South Dist., Taichung City 402, Taiwan (R.O.C.)&nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><p class=\"mbr-contacts__text\"><br></p>"
+          "text1": "<strong>工作室地址Address</strong><br>國立中興大學<br>402台灣台中市南區興大路145號<br><br>National Chung Hsing University<br>145 Xingda Rd., South Dist., Taichung City 402, Taiwan (R.O.C.)&nbsp;<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>"
         },
         {
           "_inherit": "social-buttons1",
