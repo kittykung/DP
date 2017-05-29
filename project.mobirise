@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1347,6 +1347,19 @@
             "bgColor": "#fff"
           },
           "text": "<p><a href=\"http://\"><!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-Kk1GwBpeVv0PnEaGlzh\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script>&nbsp; &nbsp;</a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=0By6w9rW8U79RTF9raU1NSkJtSzg\" data-toolbar=\"-mbrBtnMove\">雲端下載</a>"
         },
         {
           "_styles": {
