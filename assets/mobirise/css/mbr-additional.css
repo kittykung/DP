@@ -739,6 +739,18 @@ h6,
 #header3-1k FONT {
   color: #28324e;
 }
+#features1-1n .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #efefef;
+}
+#features1-1n .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features1-1n .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
+#features1-1n .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #5b5b5b;
+}
 #social-buttons3-17 .mbr-section-title,
 #social-buttons3-17 .btn-social {
   color: #fff;
