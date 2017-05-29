@@ -1309,7 +1309,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br>Digits Planet APK Download",
+          "title": "<br><br><br><br><span style=\"font-size: 3rem; line-height: 1.1;\">Digits Planet APK Download</span><br>",
           "meta": "Digits Planet apk下載"
         },
         {
@@ -1332,7 +1332,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br><br>BGM Download",
+          "title": "<br><br><br>BGM Download",
           "meta": "遊戲音樂下載<br><br>"
         },
         {
