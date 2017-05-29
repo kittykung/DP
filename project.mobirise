@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 58,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1368,21 +1368,87 @@
             },
             "H3": {
               "color": "#28324e"
+            },
+            "FONT": {
+              "color": "#28324e"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-16",
+          "_anchor": "header3-1k",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br>Digits Planet Team",
-          "meta": "製作團隊 (到時插一個awesome table)"
+          "title": "<br><br><br><font color=\"#000000\">Digits Planet Team</font>",
+          "meta": "Digits Planet 團隊<br><br>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14100249-1220868104600954-1161653958826029313-n-2000x1987-800x794.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14100249-1220868104600954-1161653958826029313-n-2000x1987.jpg",
+                "caption": "連鑫",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14449833-1322219481144116-8162477979827756909-n-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14449833-1322219481144116-8162477979827756909-n-2000x2000.jpg",
+                "caption": "吳繼元",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14462782-1114909801928302-3386937110466883750-n-2000x2002-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14462782-1114909801928302-3386937110466883750-n-2000x2002.jpg",
+                "caption": "羅少甫",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14232447-1472067816142507-2322173764262072007-n-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14232447-1472067816142507-2322173764262072007-n-2000x2000.jpg",
+                "caption": "龔姿羽",
+                "active": false
+              }
+            ],
+            "spacing": "3",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1l",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
