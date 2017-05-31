@@ -755,3 +755,119 @@ h6,
 #social-buttons3-17 .btn-social {
   color: #fff;
 }
+
+
+
+#menu-1o .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1o .navbar-caption {
+  color: #ffffff;
+}
+#menu-1o .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1o .close-icon::before,
+#menu-1o .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1o .link,
+#menu-1o .dropdown-item {
+  color: #ffffff;
+}
+#menu-1o .link {
+  font-size: 1rem;
+}
+#menu-1o .dropdown-item,
+#menu-1o .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-1o .link:hover,
+#menu-1o .dropdown-item:hover,
+#menu-1o .link:focus,
+#menu-1o .dropdown-item:focus {
+  color: #475577;
+}
+#menu-1o .link[aria-expanded="true"],
+#menu-1o .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-1o .nav-dropdown-sm .link:focus,
+#menu-1o .nav-dropdown-sm .link:hover,
+#menu-1o .nav-dropdown-sm .dropdown-item:focus,
+#menu-1o .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-1o .navbar,
+#menu-1o .nav-dropdown-sm,
+#menu-1o .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1o .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-1o .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1o .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1o .bg-color.transparent.opened .link:hover,
+#menu-1o .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-1o .link[aria-expanded="true"],
+#menu-1o .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#msg-box8-1w .mbr-section-title,
+#msg-box8-1w p {
+  color: #fff;
+}
+#msg-box8-1w .mbr-section-title FONT {
+  color: #ffffff;
+}
+#header2-1q .mbr-section-text {
+  text-align: left;
+}
+#header2-1q .mbr-section-title {
+  text-align: left;
+}
+#header2-1q .mbr-section-text FONT {
+  color: #ffffff;
+}
+#features3-1r H5 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #8c8c8c;
+}
+#features3-1r H4 {
+  color: #28324e;
+}
+#header2-1s .mbr-section-text {
+  text-align: left;
+}
+#header2-1s .mbr-section-title {
+  text-align: left;
+}
+#header2-1s .mbr-section-text FONT {
+  color: #ffffff;
+}
+#features3-1t H4 {
+  color: #28324e;
+}
+#features3-1t H5 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #8c8c8c;
+}
+#header2-1u .mbr-section-text {
+  text-align: left;
+}
+#header2-1u .mbr-section-title {
+  text-align: left;
+}
+#features3-1v H4 {
+  color: #28324e;
+}
+#features3-1v H5 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #8c8c8c;
+}
