@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DigitsPlanet.html",
+    "currentPage": "About.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 73,
+    "uniqCompNum": 74,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1378,6 +1378,19 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=0By6w9rW8U79RTF9raU1NSkJtSzg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">雲端下載</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-21",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"http://\">&nbsp;&nbsp;<!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-Kk1GwBpeVv0PnEaGlzh\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a></p>"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1724,7 +1737,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14992.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14996.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1796,7 +1809,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/planet3h-1400x13800.png",
+              "src": "@PROJECT_PATH@/assets/images/planet3h-1400x13804.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2121,7 +2134,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background11-2000x14983.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background11-2000x14987.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2141,7 +2154,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/planet11h-1400x14681.png",
+              "src": "@PROJECT_PATH@/assets/images/planet11h-1400x14685.png",
               "link": "",
               "alt": "",
               "title": "",
