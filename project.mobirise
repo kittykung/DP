@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1391,6 +1391,19 @@
           "text": "<p><a href=\"http://\">&nbsp;&nbsp;<!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-KlXZojBM52ZIH_074YO\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a></p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-23",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp; &nbsp;.</p>"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1737,7 +1750,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x149910.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x149914.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1809,7 +1822,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/planet3h-1400x13808.png",
+              "src": "@PROJECT_PATH@/assets/images/planet3h-1400x138012.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2134,7 +2147,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background11-2000x149811.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background11-2000x149815.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2154,7 +2167,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/planet11h-1400x14689.png",
+              "src": "@PROJECT_PATH@/assets/images/planet11h-1400x146813.png",
               "link": "",
               "alt": "",
               "title": "",
