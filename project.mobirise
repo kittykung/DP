@@ -241,7 +241,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Digits Planet是一個結合心算能力及打地鼠遊戲製成的遊戲，遊戲會分為三種模式，分別為</p><ul><li>加法模式 Addition</li><li>減法模式 Substraction</li><li>除法模式 Division</li></ul><p>而各三個模式又有三種難易度選擇，分別為</p><ul><li>簡單關卡 Easy</li><li>中等模式 Medium</li><li>困難模式 Hard</li></ul><p><br></p><p>使用者選擇想要的模式，進去遊戲關卡後，使用者可以看到<b>現在數字Now</b>及<b>目標數字Target</b>，而畫面會有六個洞，怪獸們會從洞洞冒出來，他們身上都帶有數字，使用者點擊那些數字就可以使現在數字Now做相對模式的運算，使Now逐漸逼近目標數字Target。</p><p><br></p><p>每一個模式達到一定經驗值(100)後，即可得到一片心之碎片，集滿三片心之碎片及代表破完所有關卡。</p><p><br></p><p>點以下按鍵即可進入遊戲關卡</p>"
+          "text": "<p>Digits Planet是一個結合心算能力及打地鼠遊戲製成的遊戲，遊戲會分為三種模式，分別為</p><ul><li>加法模式 Addition</li><li>減法模式 Substraction</li><li>除法模式 Division</li></ul><p>而各三個模式又有三種難易度選擇，分別為</p><ul><li>簡單關卡 Easy</li><li>中等模式 Medium</li><li>困難模式 Hard</li></ul><p><br></p><p>使用者選擇想要的模式，進去遊戲關卡後，使用者可以看到<b>現在數字Now</b>及<b>目標數字Target</b>，而畫面會有六個洞，怪獸們會從洞洞冒出來，他們身上都帶有數字，使用者點擊那些數字就可以使現在數字Now做相對模式的運算，使Now逐漸逼近目標數字Target。</p><p><br></p><p>每一個模式達到一定經驗值(100)後，即可得到一片心之碎片，集滿三片心之碎片及代表破完所有關卡。</p><p><br></p><p>點擊以下按鍵，即可進入遊戲關卡介紹</p>"
         },
         {
           "_tags": [
@@ -1218,7 +1218,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x149920.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x149921.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
