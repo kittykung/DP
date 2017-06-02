@@ -1218,7 +1218,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14992.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14993.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1693,7 +1693,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -1706,7 +1706,7 @@
           "title1": "Easy",
           "subtitle1": "簡單關卡",
           "caption1": "Target為目標數字，<br>玩家最終目標是把Now除成1，<br>玩家點擊怪獸，<br>怪獸身上的數字會累計到Now做除法運算。<br><br>遊戲時間30秒<br>當Now=1時，<br>每對一題加10秒，且得10分；<br>當Now不被整除時，<br>每錯一題扣5秒，螢幕會閃爍一次。",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://youtu.be/8phtgf31Dmk\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">除法簡單_示範影片</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1718,7 +1718,7 @@
           "title2": "Medium",
           "subtitle2": "中等關卡",
           "caption2": "Target為目標數字，<br>玩家最終目標是把Now除成1，<br>玩家點擊怪獸，<br>怪獸身上的數字會累計到Now做除法運算。<br><br>遊戲時間60秒<br>當Now=1時，<br>每對一題加10秒，且得10分；<br>當Now不被整除時，<br>每錯一題扣5秒，螢幕會閃爍一次。",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://youtu.be/v8sLIP4cJS0\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">除法中等_示範影片</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1730,7 +1730,7 @@
           "title3": "Hard",
           "subtitle3": "困難關卡",
           "caption3": "Target為目標數字，<br>玩家最終目標是把Now除成1，<br>玩家點擊怪獸，<br>怪獸身上的數字會累計到Now做除法運算。<br><br>遊戲時間120秒<br>當Now=1時，<br>每對一題加10秒，且得10分；<br>當Now不被整除時，<br>每錯一題扣5秒，螢幕會閃爍一次。<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://youtu.be/bDdQKKlSCMY\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">除法困難_示範影片</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
