@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DigitsPlanet.html",
+    "currentPage": "gameintro.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1218,7 +1218,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x149921.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14990.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1348,7 +1348,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -1361,7 +1361,7 @@
           "title1": "Easy",
           "subtitle1": "簡單關卡",
           "caption1": "Target為目標數字，<br>Now是玩家目前的數字，<br>玩家點擊怪獸，<br>怪獸身上的數字會累計到Now做加法運算。<br><br>遊戲時間為30秒<br>當Now=Targe時，<br>t每對一題加10秒，且得10分；<br>當Now&gt;Target時，<br>每錯一題扣5秒，螢幕會閃爍一次。<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">加法簡單_示範影片<br></a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1373,7 +1373,7 @@
           "title2": "Medium",
           "subtitle2": "中等關卡",
           "caption2": "Target為目標數字，<br>Now是玩家目前的數字，<br>玩家點擊怪獸，<br>怪獸身上的數字會累計到Now做加法運算。<br><br>遊戲時間60秒<br>當Now=Target時，<br>每對一題加10秒，且得10分；<br>當Now&gt;Target或加總後尾數為禁止數時，<br>每錯一題扣5秒，螢幕會閃爍一次。",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://youtu.be/Xgem5GApZ38\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">加法中等_示範影片</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1385,7 +1385,7 @@
           "title3": "Hard",
           "subtitle3": "困難關卡",
           "caption3": "Target為目標數字，<br>Now是玩家目前的數字，<br>玩家點擊怪獸，<br>怪獸身上的數字會累計到Now做加法運算。<br><br>遊戲時間120秒<br>當Now=Target時，<br>每對一題加10秒，且得10分；<br>當Now&gt;Target或加總後數字間有禁止數時，<br>每錯一題扣5秒，螢幕會閃爍一次。<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">加法困難_示範影片</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
