@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DigitsPlanet.html",
+    "currentPage": "About.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 81,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -836,6 +836,19 @@
           "meta": "Digits Planet apk下載"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-27",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=0B-8vwdKbu7s9X1ZGLWhqNm4zWXM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Digits Planet APK</a> "
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -870,19 +883,6 @@
             "bgColor": "#fff"
           },
           "text": "<p><a href=\"http://\">&nbsp;&nbsp;<!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-KlXZojBM52ZIH_074YO\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-23",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>&nbsp; &nbsp;.</p>"
         },
         {
           "_styles": {
@@ -1231,7 +1231,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14991.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14992.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
