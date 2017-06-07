@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gameintro.html",
+    "currentPage": "DigitsPlanet.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 78,
+    "uniqCompNum": 79,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -206,6 +206,19 @@
           "title": "Start a Math Journey",
           "text": "故事是這樣的...<br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; ⊙ω⊙國的國王老年得子，因此身為皇室唯一繼承人的小王子，自年幼就備受</span><span style=\"font-size: 1rem; line-height: 1.5;\">疼愛。</span><span style=\"font-size: 1rem; line-height: 1.5;\">王子自小生長在皇宮，過著養尊處優的日子，20年來從未踏出皇宮見識外</span><span style=\"font-size: 1rem; line-height: 1.5;\">面的世界。</span><br>&nbsp; &nbsp; &nbsp; &nbsp; 隨著歲月的流逝國王和王后相繼因為年邁而離開了世，只留下王子一個人<span style=\"font-size: 1rem; line-height: 1.5;\">孤苦無依。王子</span>省思了自己截至目前的人生，他懷疑自己是否<span style=\"font-size: 1rem; line-height: 1.5;\">能夠肩負起領導國家的責任。</span><br>&nbsp; &nbsp; &nbsp; &nbsp; 他走進皇宮的圖書室，偶然間，他的目光被書中一張圖所吸引，仔細一瞧，那是由文藝復興時期的達文西所繪製一份關於時間機器的設<span style=\"font-size: 1rem; line-height: 1.5;\">計圖，</span><span style=\"font-size: 1rem; line-height: 1.5;\">王子心想只要造出這台機器，他的人生應該就能重新來過。</span>根據書上記載，要是要製造出這時光機，需要關鍵的「心之碎片」<span style=\"font-size: 1rem; line-height: 1.5;\">，他曉</span>得若要完成這傑作，他需要強大的數學能力來看懂達文西的設計<span style=\"font-size: 1rem; line-height: 1.5;\">稿，同時也準備踏上尋找「心之碎片」的宇宙旅程。</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-26",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/tfhZJDg4CqQ\" data-toolbar=\"-mbrBtnMove\">新手教學影片</a> "
         },
         {
           "_styles": {
@@ -1218,7 +1231,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14993.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x14990.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
